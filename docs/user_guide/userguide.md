@@ -24,8 +24,8 @@ This module, `schema.py`, contains Python code for defining and creating a datab
 from survival_analysis import schema
 ```
 
-The obtained databse has the below structure:
-![Database ERD](survival_analysis/docs/ERD.jpg)
+The obtained database has the below structure:
+![Database ERD](ERD.jpg)
 
 ### 2. sql_interactions.py
 
